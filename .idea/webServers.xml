@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fc5e8e8c-bf66-4d7e-8af1-15947cb0b796" name="yeniden" url="http://ftp.schoolscodingrobotsmeeting.com">
+        <fileTransfer host="ftp.schoolscodingrobotsmeeting.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
